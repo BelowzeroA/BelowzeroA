@@ -1,4 +1,5 @@
-### I am Dima and I am a wide range NLP/DS/ML Wizard 👋 The second front of my work is AGI - Artificial General Intelligence
+### 👋 I am Dima and I am a wide range NLP/DS/ML Wizard.
+### The second front of my work is AGI - Artificial General Intelligence
 
 <!--
 **BelowzeroA/BelowzeroA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
